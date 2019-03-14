@@ -1,0 +1,1 @@
+0 4 * * *  /usr/bin/python3 /digitalreleases.py >> /dev/stdout >/dev/null 2>&1
